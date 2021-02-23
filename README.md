@@ -1,6 +1,3 @@
-![visitors](https://counter.gofiber.io/badge/su6i/masterIpsSemester4)
-
-
 # Master IPS, Fourth Semester
 
 [Return to Master IPS](https://github.com/su6i/Master-IPS-2019)
